@@ -1,9 +1,10 @@
 # Vedic-Pythonists-Website
 This repo is for developing website for team Vedic Pythonists.
+<br>
 Authors:
-Joshi Kshitij Santosh
-Vidya Karthik Akella
-Sejal Satheesh
-Surya Narayan Ghosh
-Kanishk Mittal
-Aditya Gopal
+Joshi Kshitij Santosh<br>
+Vidya Karthik Akella<br>
+Sejal Satheesh<br>
+Surya Narayan Ghosh<br>
+Kanishk Mittal<br>
+Aditya Gopal<br>
